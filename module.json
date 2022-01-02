@@ -1,0 +1,8 @@
+{
+    "name": "wallet",
+    "title": "Wallet",
+    "description": "This module adds a separate wallet tab that auto-distributes money across all denominations that the PC has in their wallet and then adds the transaction to a log.",
+    "author": "Mikitz",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.8.8"
+  }
