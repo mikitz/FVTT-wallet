@@ -1,0 +1,29 @@
+/* Table of Contents
+-----------------------
+    1.) COINS
+    2.) 
+                     */
+
+/* =================
+        COINS
+================= */
+.pp-coin {
+    color: #E5E4E2;
+}
+.gp-coin {
+    color: gold;
+}
+.ep-coin {
+    color: #F4FCFF;
+}
+.sp-coin {
+    color: silver;
+}
+.cp-coin {
+    color: #CD8232;
+}
+.wallet-currency-input {
+    border-bottom: black;
+    border-width: 2px;
+    border-radius: 5px;
+}
